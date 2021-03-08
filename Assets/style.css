@@ -77,3 +77,7 @@ body{
     width: 100%;
     object-fit: cover;
 }
+
+main{
+  transform: translateY(-10px);
+}
