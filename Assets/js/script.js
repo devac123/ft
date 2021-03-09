@@ -31,11 +31,12 @@
           }
       </style>
      <div class="container-fluid1 bg-dark text-light" style="display: flex;  justify-content:cennter;  align-items:center; ">
-         <div class="firstspan"><span class="footer-heading">Fancy Text GENERATOR</span></div>
+         <div class="firstspan"><span class="footer-heading"><a href="https://fancytext.cf/" style = "color:white;">Fancy Text GENERATOR</a></span></div>
          <div class="firstspan">
              <span class = "alternarte-pages text-light"><a class="text-light" style"color:white;" href = "About-us.html">about-us</a></span>
              <span class = "alternarte-pages"><a class="text-light" style"color:white;" href ="privecy-policy.html"> Privecy-policy</a></span>
              <span class = "alternarte-pages"><a class="text-light" style"color:white;" href = "term_ofuse.html">Terms Of Use</a></span>
+             <span class = "alternarte-pages"><a class="text-light" style"color:white;" href = "contact-us.html">Contact-US</a></span>
          </div>
          <div class="firstspan" style="margin-right: 20px;">
              &copy; 2020<a class="text-light" style="color:white;" href ="https://fancytext.cf/">Fancy Text Generator</a>
